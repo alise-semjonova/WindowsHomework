@@ -8,7 +8,7 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>b4533b05-3d05-442b-b4f1-6cd67ed65695</PackageIdentityName>
     <IntermediateOutputPath>C:\Users\InteractionDesign\Documents\Visual Studio 2013\Projects\WindowsAppAliseHome\WindowsAppAliseHome\WindowsAppAliseHome.Windows\obj\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>D370FB77565D52800BD7FCB3B239790E6CC0BBBB497E9CDB17DFC622EC64DEBA</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>A6454A361B14BD69827880EA4CC2EB35DDDB69B1E2D34FC88FC8328632A7BA60</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>b4533b05-3d05-442b-b4f1-6cd67ed65695_1.0.0.0_neutral__60jps6mnemj50</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>b4533b05-3d05-442b-b4f1-6cd67ed65695_60jps6mnemj50!App</RegisteredUserModeAppID>
     <RegisteredPackageID>b4533b05-3d05-442b-b4f1-6cd67ed65695</RegisteredPackageID>
@@ -20,13 +20,13 @@
     <AppXManifest Include="C:\Users\InteractionDesign\Documents\Visual Studio 2013\Projects\WindowsAppAliseHome\WindowsAppAliseHome\WindowsAppAliseHome.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-05-21T10:14:20.583</Modified>
+      <Modified>2015-05-21T11:00:45.478</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\InteractionDesign\Documents\Visual Studio 2013\Projects\WindowsAppAliseHome\WindowsAppAliseHome\WindowsAppAliseHome.Windows\bin\Debug\WindowsAppAliseHome.Windows.exe">
       <PackagePath>WindowsAppAliseHome.Windows.exe</PackagePath>
-      <Modified>2015-05-21T10:28:03.571</Modified>
+      <Modified>2015-05-21T11:21:15.037</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\InteractionDesign\Documents\Visual Studio 2013\Projects\WindowsAppAliseHome\WindowsAppAliseHome\WindowsAppAliseHome.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
@@ -54,15 +54,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\InteractionDesign\Documents\Visual Studio 2013\Projects\WindowsAppAliseHome\WindowsAppAliseHome\WindowsAppAliseHome.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2015-05-21T10:14:19.797</Modified>
+      <Modified>2015-05-21T11:21:14.593</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\InteractionDesign\Documents\Visual Studio 2013\Projects\WindowsAppAliseHome\WindowsAppAliseHome\WindowsAppAliseHome.Windows\bin\Debug\WindowsAppAliseHome.Windows.xr.xml">
       <PackagePath>WindowsAppAliseHome.Windows.xr.xml</PackagePath>
-      <Modified>2015-05-21T10:14:19.738</Modified>
+      <Modified>2015-05-21T11:21:14.480</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\InteractionDesign\Documents\Visual Studio 2013\Projects\WindowsAppAliseHome\WindowsAppAliseHome\WindowsAppAliseHome.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-05-21T10:14:20.350</Modified>
+      <Modified>2015-05-21T11:00:44.713</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

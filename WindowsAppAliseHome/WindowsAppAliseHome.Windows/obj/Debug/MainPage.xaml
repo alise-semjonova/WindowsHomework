@@ -7,9 +7,16 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <Image x:Name="img_viewer" HorizontalAlignment="Left" Height="538" Margin="229,34,0,0" VerticalAlignment="Top" Width="907"/>
-        <Button x:ConnectionId='1' Content="Button" HorizontalAlignment="Left" Margin="524,643,0,0" VerticalAlignment="Top" Height="71" Width="329"                     />
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="0,17,0,-17">
+        <Image x:Name="img_viewer" HorizontalAlignment="Left" Height="227" Margin="295,73,0,0" VerticalAlignment="Top" Width="384"/>
+        <Button x:ConnectionId='1' Content="Button" HorizontalAlignment="Left" Margin="524,615,0,0" VerticalAlignment="Top" Height="71" Width="329"                     />
+        <Image x:Name="imgviewer1" HorizontalAlignment="Left" Height="227" Margin="739,73,0,0" VerticalAlignment="Top" Width="393"/>
+        <Image x:Name="imgviewer2" HorizontalAlignment="Left" Height="223" Margin="295,364,0,0" VerticalAlignment="Top" Width="384"/>
+        <Image x:Name="imgviewer3" HorizontalAlignment="Left" Height="223" Margin="739,364,0,0" VerticalAlignment="Top" Width="393"/>
+        <TextBlock x:ConnectionId='2' x:Name="txt1" HorizontalAlignment="Left" Margin="331,26,0,0" TextWrapping="Wrap" VerticalAlignment="Top"                                               Text="Selfy number one" Height="25" Width="313"/>
+        <TextBlock x:Name="txt2" HorizontalAlignment="Left" Margin="770,26,0,0" TextWrapping="Wrap" Text="selfy number two" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txt3" HorizontalAlignment="Left" Margin="331,326,0,0" TextWrapping="Wrap" Text="Third selfy" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txt4" HorizontalAlignment="Left" Margin="799,326,0,0" TextWrapping="Wrap" Text="Selfy number 4" VerticalAlignment="Top"/>
 
     </Grid>
 </Page>

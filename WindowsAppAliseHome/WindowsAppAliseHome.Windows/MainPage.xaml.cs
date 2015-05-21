@@ -34,12 +34,37 @@ namespace WindowsAppAliseHome
         private async void Button_Click(object sender,  RoutedEventArgs e) 
         {
             CameraCaptureUI capture = new CameraCaptureUI();
-                
             capture.PhotoSettings.CroppedAspectRatio = new Size(16, 9);
                 StorageFile file = await capture.CaptureFileAsync(CameraCaptureUIMode.Photo); 
             IRandomAccessStream filestream = await file.OpenAsync(FileAccessMode.Read); 
             BitmapImage img = new BitmapImage(); 
-            img.SetSource(filestream); img_viewer.Source = img; 
+            img.SetSource(filestream); img_viewer.Source = img;
+
+            CameraCaptureUI capture1 = new CameraCaptureUI();
+            capture1.PhotoSettings.CroppedAspectRatio = new Size(16, 9);
+            StorageFile file1 = await capture1.CaptureFileAsync(CameraCaptureUIMode.Photo);
+            IRandomAccessStream filestream1 = await file1.OpenAsync(FileAccessMode.Read);
+            BitmapImage img1 = new BitmapImage();
+            img1.SetSource(filestream1); imgviewer1.Source = img1;
+
+            CameraCaptureUI capture2 = new CameraCaptureUI();
+            capture2.PhotoSettings.CroppedAspectRatio = new Size(16, 9);
+            StorageFile file2 = await capture2.CaptureFileAsync(CameraCaptureUIMode.Photo);
+            IRandomAccessStream filestream2 = await file2.OpenAsync(FileAccessMode.Read);
+            BitmapImage img2 = new BitmapImage();
+            img2.SetSource(filestream2); imgviewer2.Source = img2;
+
+            CameraCaptureUI capture3 = new CameraCaptureUI();
+            capture3.PhotoSettings.CroppedAspectRatio = new Size(16, 9);
+            StorageFile file3 = await capture3.CaptureFileAsync(CameraCaptureUIMode.Photo);
+            IRandomAccessStream filestream3 = await file3.OpenAsync(FileAccessMode.Read);
+            BitmapImage img3 = new BitmapImage();
+            img3.SetSource(filestream3); imgviewer3.Source = img3; 
+        }
+
+        private void TextBlock_SelectionChanged(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
