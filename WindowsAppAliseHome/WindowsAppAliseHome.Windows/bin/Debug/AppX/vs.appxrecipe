@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>IDLAB-VAIO-TAP</Machine>
+    <WindowsUser>InteractionDesign</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b4533b05-3d05-442b-b4f1-6cd67ed65695</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\InteractionDesign\Documents\Visual Studio 2013\Projects\WindowsAppAliseHome\WindowsAppAliseHome\WindowsAppAliseHome.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D370FB77565D52800BD7FCB3B239790E6CC0BBBB497E9CDB17DFC622EC64DEBA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b4533b05-3d05-442b-b4f1-6cd67ed65695_1.0.0.0_neutral__60jps6mnemj50</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b4533b05-3d05-442b-b4f1-6cd67ed65695_60jps6mnemj50!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b4533b05-3d05-442b-b4f1-6cd67ed65695</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=InteractionDesign</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\InteractionDesign\Documents\Visual Studio 2013\Projects\WindowsAppAliseHome\WindowsAppAliseHome\WindowsAppAliseHome.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-21T10:14:20.583</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\InteractionDesign\Documents\Visual Studio 2013\Projects\WindowsAppAliseHome\WindowsAppAliseHome\WindowsAppAliseHome.Windows\bin\Debug\WindowsAppAliseHome.Windows.exe">
+      <PackagePath>WindowsAppAliseHome.Windows.exe</PackagePath>
+      <Modified>2015-05-21T10:28:03.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\InteractionDesign\Documents\Visual Studio 2013\Projects\WindowsAppAliseHome\WindowsAppAliseHome\WindowsAppAliseHome.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\InteractionDesign\Documents\Visual Studio 2013\Projects\WindowsAppAliseHome\WindowsAppAliseHome\WindowsAppAliseHome.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\InteractionDesign\Documents\Visual Studio 2013\Projects\WindowsAppAliseHome\WindowsAppAliseHome\WindowsAppAliseHome.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\InteractionDesign\Documents\Visual Studio 2013\Projects\WindowsAppAliseHome\WindowsAppAliseHome\WindowsAppAliseHome.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\InteractionDesign\Documents\Visual Studio 2013\Projects\WindowsAppAliseHome\WindowsAppAliseHome\WindowsAppAliseHome.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-21T10:14:19.794</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\InteractionDesign\Documents\Visual Studio 2013\Projects\WindowsAppAliseHome\WindowsAppAliseHome\WindowsAppAliseHome.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-21T10:14:19.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\InteractionDesign\Documents\Visual Studio 2013\Projects\WindowsAppAliseHome\WindowsAppAliseHome\WindowsAppAliseHome.Windows\bin\Debug\WindowsAppAliseHome.Windows.xr.xml">
+      <PackagePath>WindowsAppAliseHome.Windows.xr.xml</PackagePath>
+      <Modified>2015-05-21T10:14:19.738</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\InteractionDesign\Documents\Visual Studio 2013\Projects\WindowsAppAliseHome\WindowsAppAliseHome\WindowsAppAliseHome.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-21T10:14:20.350</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
